@@ -1,0 +1,30 @@
+body{
+    font-family: arial;
+    font-family: 'Texturina', serif;
+    border:10px dotted cyan;
+    padding:5px;
+    background-color: lightgreen;
+}
+
+img {
+    width: 200px; 
+    clear:both;
+    border:10px double hotpink;
+    margin:10px;
+    padding:10px;
+}
+li{
+    background:lightblue;
+    float: left;
+    border:5px dashed yellow;
+padding:5px;
+}
+p{
+    border:10px inset violet;
+    text-align:center;
+    font-family: 'Texturina', serif;
+}
+ul{
+    list-style: none;
+    overflow: auto;
+}
